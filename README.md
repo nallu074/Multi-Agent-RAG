@@ -71,6 +71,8 @@ This project treats **retrieval routing as a first-class problem**, improving re
 ### Prerequisites
 
 Create a `.env` file with the following variables:
+
+```text
 ASTRA_DB_ID=...
 ASTRA_DB_APPLICATION_TOKEN=...
 GROQ_API_KEY=...
@@ -79,15 +81,20 @@ OPENAI_API_KEY=...
 LLM_MODEL=llama-3.3-70b-versatile
 EMBED_MODEL=text-embedding-3-small
 VECTOR_TABLE=qa_mini_demo
-
+```
 
 
 ### Install Dependencies
 
+```text
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
+```
 
 ### Running the application
-streamlit run app.py 
+
+```text
+streamlit run app.py
+``` 
