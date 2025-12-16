@@ -1,0 +1,17 @@
+langchain
+langgraph
+cassio
+langchain_community
+tiktoken
+langchain-groq
+langchainhub
+langchain_huggingface
+ipykernel
+langchain-text-splitters
+bs4
+sentence-transformers
+langchain-classic
+langchain_core
+pydantic
+arxiv 
+wikipedia
