@@ -1,7 +1,7 @@
 
 # Multi-Agent RAG Chatbot using LangGraph & AstraDB
 
-A **multi-agent Retrieval-Augmented Generation (RAG) chatbot** that intelligently routes user queries between a private vector database (AstraDB) and external tools (Wikipedia search). Built using **LangGraph** for agent orchestration, **OpenAI embeddings** for semantic retrieval, and **Llama-3.3-70B-Versatile** for high-quality reasoning and answer generation.
+Multi-Agent RAG System using LangGraph that routes user queries between a vector database and external tools (Wikipedia search). Implements web content ingestion, token-based text chunking, MiniLM embeddings stored in AstraDB, and stateful Llama-3 agents for context-aware retrieval and response generation across multiple data sources.
 
 ---
 
