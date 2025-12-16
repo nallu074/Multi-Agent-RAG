@@ -79,7 +79,7 @@ GROQ_API_KEY=...
 OPENAI_API_KEY=...
 
 LLM_MODEL=llama-3.3-70b-versatile
-EMBED_MODEL=text-embedding-3-small
+EMBED_MODEL=ll-MiniLM-L6-v2
 VECTOR_TABLE=qa_mini_demo
 ```
 
