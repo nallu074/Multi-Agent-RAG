@@ -33,7 +33,7 @@ This project treats **retrieval routing as a first-class problem**, improving re
 |----------|---------|
 | **LangGraph** | Agent orchestration and conditional routing |
 | **AstraDB** | Scalable vector database for private knowledge |
-| **Huggingface Embeddings** | Semantic embeddings (`ll-MiniLM-L6-v2`) |
+| **Huggingface Embeddings** | Semantic embeddings (`all-MiniLM-L6-v2`) |
 | **Llama-3.3-70B-Versatile** | Routing decisions and answer generation |
 | **Wikipedia Tool** | External knowledge fallback |
 
