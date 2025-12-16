@@ -42,6 +42,7 @@ This project treats **retrieval routing as a first-class problem**, improving re
 ---
 
 ## 📂 Project Structure
+```text
 ├── README.md
 ├── app.py # Streamlit application entrypoint
 ├── requirements.txt # Python dependencies
@@ -52,7 +53,7 @@ This project treats **retrieval routing as a first-class problem**, improving re
   ├── ingest.py # Ingesting vector data into AstraDB
   └── tools.py # External tools (Wikipedia search) 
 
-
+```
 ---
 
 ## ✨ Features
